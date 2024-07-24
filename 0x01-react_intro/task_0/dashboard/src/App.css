@@ -1,0 +1,40 @@
+:root{
+  --color-brand:  #e01d3f;
+ }
+ 
+ .App-header{
+   background-color: white;
+   display: flex;
+   color: var(--color-brand);
+   font-size: 30px;
+   align-items: center;
+   border-bottom: #e01d3f 5px solid;
+ }
+ 
+ .App-header img{
+   width: 250px;
+ 
+ }
+ 
+ .App-body{
+   font-size: 20px;
+   height: 400px;
+   width: 100%;
+   border-bottom: #e01d3f 5px solid;
+ }
+
+ .App-body p{
+  font-family: sans-serif;
+  color: black;
+  margin: 70px;
+ }
+
+ .App-footer p{
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+  margin: 20px;
+  font-size: 25px;
+  font-style: italic;
+  
+ }
