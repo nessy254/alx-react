@@ -20,19 +20,38 @@
    font-size: 20px;
    height: 400px;
    width: 100%;
-   border-bottom: #e01d3f 5px solid;
+   margin: 70px;
+   
  }
 
  .App-body p{
   font-family: sans-serif;
   color: black;
-  margin: 70px;
+ }
+
+ .App-body label{
+  font-family: sans-serif;
+  justify-content: space-around;
+ }
+
+ .App-body button{
+  height: 22px;
+  width: fit-content;
+  border-radius: 3px;
+  margin: 10px;
+ }
+
+ .App-body input{
+  height: 20px;
+  margin: 10px;
  }
 
  .App-footer p{
+  border-top: #e01d3f 5px solid;
   font-family: sans-serif;
   color: black;
   text-align: center;
+  padding: 30px;
   margin: 20px;
   font-size: 25px;
   font-style: italic;
