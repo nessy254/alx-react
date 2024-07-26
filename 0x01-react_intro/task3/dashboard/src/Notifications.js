@@ -1,7 +1,7 @@
 import React from "react";
 import "./Notifications.css"
 import "./utils.js"
-import closeIcon form "./close-icon"
+import closeIcon from "./close-icon"
 
 export default function Notifications(){
     return(
