@@ -1,0 +1,59 @@
+:root{
+  --color-brand:  #e01d3f;
+ }
+ 
+ .App-header{
+   background-color: white;
+   display: flex;
+   color: var(--color-brand);
+   font-size: 30px;
+   align-items: center;
+   border-bottom: #e01d3f 5px solid;
+ }
+ 
+ .App-header img{
+   width: 250px;
+ 
+ }
+ 
+ .App-body{
+   font-size: 22px;
+   height: 400px;
+   width: 100%;
+   margin: 70px;
+   
+ }
+
+ .App-body p{
+  /* font-family: sans-serif; */
+  color: black;
+ }
+
+ .App-body label{
+  /* font-family: sans-serif; */
+  justify-content: space-around;
+ }
+
+ .App-body button{
+  height: 22px;
+  width: fit-content;
+  border-radius: 3px;
+  margin: 10px;
+ }
+
+ .App-body input{
+  height: 20px;
+  margin: 10px;
+ }
+
+ .App-footer p{
+  border-top: #e01d3f 5px solid;
+  /* font-family: sans-serif; */
+  color: black;
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+  font-size: 25px;
+  font-style: italic;
+  
+ }
