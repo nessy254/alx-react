@@ -1,0 +1,13 @@
+.App-header{
+    background-color: white;
+    display: flex;
+    color: var(--color-brand);
+    font-size: 30px;
+    align-items: center;
+    border-bottom: #e01d3f 5px solid;
+  }
+  
+  .App-header img{
+    width: 250px;
+  
+  }
