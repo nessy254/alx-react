@@ -1,0 +1,31 @@
+.App-body{
+    font-size: 22px;
+    height: 400px;
+    width: 100%;
+    margin: 70px;
+    
+  }
+ 
+  .App-body p{
+   /* font-family: sans-serif; */
+   color: black;
+  }
+ 
+  .App-body label{
+   /* font-family: sans-serif; */
+   justify-content: space-around;
+  }
+ 
+  .App-body button{
+   height: 22px;
+   width: fit-content;
+   border-radius: 3px;
+   margin: 10px;
+  }
+ 
+  .App-body input{
+   height: 20px;
+   margin: 10px;
+  }
+ 
+ 
