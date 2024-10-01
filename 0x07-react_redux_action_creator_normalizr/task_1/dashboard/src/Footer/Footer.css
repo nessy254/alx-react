@@ -1,0 +1,11 @@
+.App-footer p{
+    border-top: #e01d3f 5px solid;
+    /* font-family: sans-serif; */
+    color: black;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    font-size: 25px;
+    font-style: italic;
+    
+   }
